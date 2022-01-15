@@ -1,5 +1,5 @@
 const clientId = 'e5e9a7cef5b040aabb59d472cfc33624';
-const redirectUri = 'http://localhost:3000/';
+const redirectUri = 'http://localhost:3000/callback/';
 let accessToken;
 
 const Spotify = {
