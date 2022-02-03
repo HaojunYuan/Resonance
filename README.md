@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Welcome To Resonance!
+With Resonance, you can easily create playlists for your Spotify account!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
